@@ -4,5 +4,5 @@ ls -laR ~ | grep Loop
 sleep 5
 df -h
 echo this is space utilization
-is thois something
+is this something
 more changes
