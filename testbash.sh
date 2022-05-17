@@ -1,8 +1,16 @@
 echo this is a test
-sleep 5 
-ls -laR ~ | grep Loop
+echo wait 5 seconds
 sleep 5
+cd ~
+ls -laR ~ | grep Loop
+echo wait 5 seconds
+sleep 5
+echo
+echo
+See Space Utilizaton
 df -h
-echo this is space utilization
-is this something
-more changes
+echo
+
+echo This is space utilization
+echo
+
