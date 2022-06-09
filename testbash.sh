@@ -15,4 +15,5 @@ echo
 echo
 echo This is space utilization
 echo
+echo The end of the program
 
